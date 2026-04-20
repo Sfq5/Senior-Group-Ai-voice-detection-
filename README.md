@@ -1,1 +1,1 @@
-Initial upload of English and Arabic AI voice detection prototypes
+The trained model file (.pkl) and dataset are not included due to size limitations.
